@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CoonectApplication<coonect>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hub.integrator.marketplace.coonect.CoonectApplication",
+            "projectName": "coonect",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

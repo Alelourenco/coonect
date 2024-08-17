@@ -1,0 +1,10 @@
+com\hub\integrator\marketplace\coonect\CoonectApplication.class
+com\hub\integrator\marketplace\coonect\controller\UserController.class
+com\hub\integrator\marketplace\coonect\repository\UserRepository.class
+com\hub\integrator\marketplace\coonect\service\UserService.class
+com\hub\integrator\marketplace\coonect\model\UserDTO.class
+com\hub\integrator\marketplace\coonect\entity\Product.class
+com\hub\integrator\marketplace\coonect\entity\User.class
+com\hub\integrator\marketplace\coonect\config\WebConfig.class
+com\hub\integrator\marketplace\coonect\ServletInitializer.class
+com\hub\integrator\marketplace\coonect\config\AppConfig.class
